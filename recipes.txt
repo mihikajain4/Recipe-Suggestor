@@ -1,0 +1,38 @@
+Omelette:egg,salt,oil
+Pancakes:flour,egg,milk,sugar,butter
+French Toast:bread,egg,milk,sugar,cinnamon,butter
+Masala Chai:tea,milk,sugar,ginger
+Aloo Paratha:potato,flour,salt,ghee
+Banana Pancake:banana,flour,sugar,milk
+Poha:rice,onion,mustard seeds,curry leaves,salt
+Upma:semolina,onion,mustard seeds,curry leaves,oil
+Tea:tea,milk,sugar
+Pasta:pasta,tomato,salt,oil
+Rice Bowl:rice,vegetables,salt,oil
+Tacos:tortilla,chicken,tomato,onion,cheese,lettuce
+Veggie Stir Fry:broccoli,carrot,bell pepper,soy sauce,oil,garlic
+Chicken Curry:chicken,onion,garlic,tomato,salt,oil,spices
+Egg Fried Rice:egg,rice,soy sauce,oil,salt
+Paneer Tikka:paneer,yogurt,spices,oil
+Vegetable Pulao:rice,carrot,peas,onion,oil,salt
+Khichdi:rice,lentils,turmeric,salt,ghee
+Chole:chickpeas,onion,tomato,spices
+Bhindi Fry:okra,onion,salt,oil
+Sambar:lentils,tamarind,vegetables,spices
+Palak Paneer:spinach,paneer,garlic,onion,spices
+Roti:flour,salt,water
+Butter Naan:flour,yogurt,salt,butter
+Grilled Cheese:bread,cheese,butter
+Salad:lettuce,tomato,cucumber,oil,salt
+Caesar Salad:lettuce,chicken,parmesan,croutons,caesar dressing
+Guacamole:avocado,tomato,onion,lime,salt
+Veg Sandwich:bread,cucumber,tomato,butter
+Garlic Bread:bread,garlic,butter,parsley,salt
+Maggi Noodles:noodles,water,masala
+Sabudana Khichdi:tapioca,potato,peanuts,spices
+Tomato Soup:tomato,onion,garlic,salt,oil
+Chocolate Cake:flour,sugar,egg,butter,cocoa powder,baking powder
+Strawberry Smoothie:strawberry,milk,honey
+Banana Smoothie:banana,milk,honey
+Mango Shake:mango,milk,sugar
+Lemonade:lemon,sugar,water
